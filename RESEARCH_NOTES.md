@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Vision Language Models
+**Domain:** Multimodal & Perception
 **Upstream:** https://github.com/QwenLM/Qwen3-VL
 **Fork:** https://github.com/sureshsolannki-ai/Qwen3-VL
 **Priority:** Med
